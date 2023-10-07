@@ -1,2 +1,2 @@
 python pretrain/stories.py \
- --train_data_dir data/lit-stories
+ --train_data_dir kaggle/input/lit-stories/lit-stories
